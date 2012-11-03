@@ -1,0 +1,4 @@
+puppet-git
+==========
+
+Installs git
